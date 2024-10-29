@@ -1,0 +1,31 @@
+name: Deploy to production
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    environment: Hostinger
+    name: Perform deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Execute SSH commands
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          port: ${{ secrets.SERVER_PORT }}
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          debug: true
+          use_insecure_cipher: true
+          script: |
+           cd domains/provibox.com
+           php artisan down
+           git checkout master
+           git pull origin master
+           composer2 install --no-dev
+           npm run build
+           php artisan view:cache
+           php artisan up         
+           
