@@ -232,6 +232,7 @@
               <p>Accra, GA 91770</p>
             </div>
           </div>
+          
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
             <div class="media-body">
