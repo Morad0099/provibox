@@ -129,8 +129,7 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Wood & Cloth
-                                                Sofa</h1>
+                                            <h1>Plastic & Metal Boxes</h1>
                                             <p>Incididunt ut labore et dolore magna aliqua quis ipsum
                                                 suspendisse ultrices gravida. Risus commodo viverra</p>
                                             <a href="#" class="btn_2">buy now</a>
@@ -146,8 +145,7 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Cloth & Wood
-                                                Sofa</h1>
+                                            <h1>Plastic & Metal Boxes</h1>
                                             <p>Incididunt ut labore et dolore magna aliqua quis ipsum
                                                 suspendisse ultrices gravida. Risus commodo viverra</p>
                                             <a href="#" class="btn_2">buy now</a>
@@ -163,8 +161,7 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Wood & Cloth
-                                                Sofa</h1>
+                                            <h1>Plastic & Metal Boxes</h1>
                                             <p>Incididunt ut labore et dolore magna aliqua quis ipsum
                                                 suspendisse ultrices gravida. Risus commodo viverra</p>
                                             <a href="#" class="btn_2">buy now</a>
