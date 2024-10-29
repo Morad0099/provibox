@@ -2350,11 +2350,11 @@ ul {
   }
   /* line 245, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
   .navbar-brand img {
-    max-width: 100px;
+    /* max-width: 100px; */
     margin: 0 auto;
     position: absolute;
-    left: 0;
-    right: 0;
+    left: 50%;
+    transform: translateX(-50%);
     display: inline-block;
     top: 0;
   }
