@@ -51,8 +51,8 @@
                                         Shop
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_1">
-                                        <a class="dropdown-item" href="/"> shop category</a>
-                                        <a class="dropdown-item" href="/">product details</a>
+                                        <a class="dropdown-item" href="/category"> shop category</a>
+                                        <a class="dropdown-item" href="/product">product details</a>
                                         
                                     </div>
                                 </li>
@@ -106,7 +106,7 @@
                 </div>
             </div>
         </div>
-        <div class="search_input" id="search_input_box">
+        {{-- <div class="search_input" id="search_input_box">
             <div class="container ">
                 <form class="d-flex justify-content-between search-inner">
                     <input type="text" class="form-control" id="search_input" placeholder="Search Here">
@@ -114,7 +114,7 @@
                     <span class="ti-close" id="close_search" title="Close Search"></span>
                 </form>
             </div>
-        </div>
+        </div> --}}
     </header>
     <!-- Header part end-->
 
