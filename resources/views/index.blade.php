@@ -84,6 +84,9 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="/contact">Contact</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/about_us">About Us</a>
+                                </li>
                             </ul>
                         </div>
                         {{-- <div class="hearer_icon d-flex">
@@ -129,9 +132,8 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Plastic & Metal Boxes</h1>
-                                            <p>Incididunt ut labore et dolore magna aliqua quis ipsum
-                                                suspendisse ultrices gravida. Risus commodo viverra</p>
+                                            <h1>The Ultimate Plastic Chopbox!</h1>
+                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
                                             <a href="#" class="btn_2">buy now</a>
                                         </div>
                                     </div>
@@ -145,9 +147,9 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Plastic & Metal Boxes</h1>
-                                            <p>Incididunt ut labore et dolore magna aliqua quis ipsum
-                                                suspendisse ultrices gravida. Risus commodo viverra</p>
+                                            <h1>The Ultimate Plastic Chopbox!</h1>
+                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
+
                                             <a href="#" class="btn_2">buy now</a>
                                         </div>
                                     </div>
@@ -161,9 +163,9 @@
                                 <div class="col-lg-5 col-md-8">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
-                                            <h1>Plastic & Metal Boxes</h1>
-                                            <p>Incididunt ut labore et dolore magna aliqua quis ipsum
-                                                suspendisse ultrices gravida. Risus commodo viverra</p>
+                                            <h1>The Ultimate Plastic Chopbox!</h1>
+                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
+
                                             <a href="#" class="btn_2">buy now</a>
                                         </div>
                                     </div>
@@ -197,7 +199,45 @@
         </div>
     </section>
     <!-- banner part start-->
-
+    <section class="how_it_works padding_top">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section_tittle text-center">
+                        <h2>How It Works</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="how_it_works_steps">
+                        <div class="single_step">
+                            <div class="step_number">1</div>
+                            <div class="step_content">
+                                <h4>Browse & Choose Your ProviBOX</h4>
+                                <p>Pick from our selection of sizes and colors to find the perfect fit.</p>
+                            </div>
+                        </div>
+                        <div class="single_step">
+                            <div class="step_number">2</div>
+                            <div class="step_content">
+                                <h4>Order via WhatsApp</h4>
+                                <p>Click the WhatsApp link to pre-order or secure yours. We’ll confirm all details, arrange payment, and keep you updated on delivery.</p>
+                            </div>
+                        </div>
+                        <div class="single_step">
+                            <div class="step_number">3</div>
+                            <div class="step_content">
+                                <h4>Receive & Enjoy!</h4>
+                                <p>With first stock arriving November 1st, 2024, you’ll be among the first to experience the convenience and durability of ProviBOX.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <!-- feature_part start-->
     <section class="feature_part padding_top">
         <div class="container">

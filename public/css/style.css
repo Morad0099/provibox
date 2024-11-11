@@ -2295,6 +2295,314 @@ ul {
   text-transform: capitalize;
 }
 
+.how_it_works {
+  background: #f9f9f9;
+  padding: 60px 0;
+}
+
+.how_it_works .section_tittle h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.how_it_works_steps {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.single_step {
+  display: flex;
+  align-items: flex-start;
+  background: #fff;
+  border: 1px solid #e3e3e3;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.step_number {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+  background: #ff6b6b;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}
+
+.step_content h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.step_content p {
+  font-size: 1rem;
+  color: #555;
+  margin: 0;
+}
+
+/* General Styling */
+.about_highlights {
+  background: #f9f9f9;
+  padding: 60px 0;
+}
+
+.section_tittle h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.highlight_list {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.8;
+}
+
+.highlight_list li {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+
+.highlight_list li::before {
+  content: "✔";
+  color: green;
+  position: absolute;
+  left: 0;
+  top: 5px;
+  font-size: 1.2rem;
+}
+
+.price_text {
+  font-size: 1.2rem;
+  color: #444;
+  font-weight: bold;
+  text-align: center;
+}
+
+.available_colors {
+  margin-top: 30px;
+}
+
+.color_list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1rem;
+  color: #444;
+  text-align: center;
+}
+
+.color_list li {
+  display: inline-block;
+  margin: 5px 15px;
+}
+
+.faq_section {
+  background: #fff;
+  padding: 40px;
+  border: 1px solid #e3e3e3;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.faq_content h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.faq_item strong {
+  font-size: 1.1rem;
+  color: #000;
+}
+
+.faq_item p {
+  font-size: 1rem;
+  color: #555;
+  margin: 10px 0 20px 0;
+}
+
+.about_us_section {
+  background: #f0f8ff;
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.about_us_content h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.about_us_content p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 992px) {
+  .section_tittle h2 {
+      font-size: 2rem;
+  }
+
+  .highlight_list {
+      font-size: 1rem;
+      padding: 0 10px;
+  }
+
+  .price_text {
+      font-size: 1rem;
+  }
+
+  .faq_section {
+      padding: 20px;
+  }
+
+  .faq_content h3 {
+      font-size: 1.5rem;
+  }
+
+  .faq_item strong {
+      font-size: 1rem;
+  }
+
+  .faq_item p {
+      font-size: 0.9rem;
+  }
+
+  .about_us_content h3 {
+      font-size: 1.5rem;
+  }
+
+  .about_us_content p {
+      font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .highlight_list li {
+      padding-left: 25px;
+  }
+
+  .highlight_list li::before {
+      font-size: 1rem;
+  }
+
+  .faq_section {
+      padding: 15px;
+  }
+
+  .color_list li {
+      margin: 5px;
+      display: block;
+  }
+
+  .faq_content h3 {
+      font-size: 1.4rem;
+  }
+
+  .faq_item strong {
+      font-size: 0.95rem;
+  }
+
+  .faq_item p {
+      font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .section_tittle h2 {
+      font-size: 1.8rem;
+  }
+
+  .highlight_list {
+      font-size: 0.9rem;
+  }
+
+  .highlight_list li {
+      padding-left: 20px;
+  }
+
+  .highlight_list li::before {
+      font-size: 0.9rem;
+  }
+
+  .faq_section {
+      padding: 10px;
+  }
+
+  .faq_content h3 {
+      font-size: 1.2rem;
+  }
+
+  .faq_item strong {
+      font-size: 0.9rem;
+  }
+
+  .faq_item p {
+      font-size: 0.8rem;
+  }
+
+  .price_text {
+      font-size: 0.95rem;
+  }
+
+  .about_us_content h3 {
+      font-size: 1.3rem;
+  }
+
+  .about_us_content p {
+      font-size: 0.9rem;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .how_it_works_steps {
+      gap: 15px;
+  }
+
+  .single_step {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .step_number {
+      margin-right: 0;
+      margin-bottom: 15px;
+  }
+
+  .step_content h4 {
+      font-size: 1rem;
+  }
+
+  .step_content p {
+      font-size: 0.9rem;
+  }
+}
+
+
 /* line 185, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_menu.scss */
 .dropdown:hover .dropdown-menu {
   transform: scale(1);

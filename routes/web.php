@@ -17,3 +17,7 @@ Route::get('/category', function () {
 Route::get('/product', function () {
     return view('shop.product');
 });
+
+Route::get('/about_us', function () {
+    return view('about_us.index');
+});
