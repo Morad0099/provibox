@@ -134,7 +134,7 @@
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
                                             <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
-                                            <a href="#" class="btn_2">buy now</a>
+                                            <a href="https://wa.me/233508984384" class="btn_2">buy now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -150,7 +150,7 @@
                                             <h1>The Ultimate Plastic Chopbox!</h1>
                                             <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
 
-                                            <a href="#" class="btn_2">buy now</a>
+                                            <a href="https://wa.me/233508984384" class="btn_2">buy now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -166,7 +166,7 @@
                                             <h1>The Ultimate Plastic Chopbox!</h1>
                                             <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
 
-                                            <a href="#" class="btn_2">buy now</a>
+                                            <a href="https://wa.me/233508984384" class="btn_2">buy now</a>
                                         </div>
                                     </div>
                                 </div>
