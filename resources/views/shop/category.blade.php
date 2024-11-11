@@ -87,6 +87,9 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="/contact">Contact</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/about_us">About Us</a>
+                                </li>
                             </ul>
                         </div>
                         {{-- <div class="hearer_icon d-flex">
@@ -319,7 +322,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +332,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -339,7 +342,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -349,7 +352,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +362,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -369,7 +372,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -379,7 +382,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -389,7 +392,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -399,7 +402,7 @@
                                 <div class="single_product_text">
                                     <h4>Plastic Provibox</h4>
                                     <h3>GHS 150.00</h3>
-                                    <a href="#" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                 </div>
                             </div>
                         </div>

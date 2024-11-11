@@ -253,7 +253,7 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         <h3>Latest Box</h3>
-                        <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
                         <img src="new_img/pro_ryr@3x.jpg" style="height: 90%; margin-bottom: 20px;" alt="">
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         {{-- <h3>Latest Box</h3> --}}
-                        <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
                         <img src="new_img/pro_99@3x.jpg" style="height: 75%; margin-bottom: 20px;" alt="">
                     </div>
                 </div>
@@ -269,7 +269,7 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         <h3>Latest Box</h3>
-                        <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
                         <img src="new_img/ImageToStl.com_3.png" style="height: 80%" alt="">
                     </div>
                 </div>
@@ -277,7 +277,7 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         <h3>Latest Box</h3>
-                        <a href="#" class="feature_btn">EXPLORE NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
                         <img src="new_img/ImageToStl.com_2 (4).png" style="height: 70%" alt="">
                     </div>
                 </div>
@@ -307,7 +307,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -317,7 +317,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -327,7 +327,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -337,7 +337,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -347,7 +347,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -357,7 +357,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -367,7 +367,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -377,7 +377,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -391,7 +391,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -401,7 +401,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -411,7 +411,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -421,7 +421,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -431,7 +431,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -441,7 +441,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -451,7 +451,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -461,7 +461,7 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="#" class="add_cart">+ add to cart<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>

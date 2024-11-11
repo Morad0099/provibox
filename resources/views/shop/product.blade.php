@@ -81,8 +81,11 @@
                             </li> --}}
                             
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Contact</a>
-                            </li>
+                              <a class="nav-link" href="/contact">Contact</a>
+                          </li>
+                          <li class="nav-item">
+                              <a class="nav-link" href="/about_us">About Us</a>
+                          </li>
                         </ul>
                     </div>
                     {{-- <div class="hearer_icon d-flex">
@@ -181,7 +184,7 @@
                 <input class="input-number" type="text" value="1" min="0" max="10">
                 <span class="number-increment"> <i class="ti-plus"></i></span>
               </div>
-              <a href="#" class="btn_3">buy now</a>
+              <a href="https://wa.me/233508984384" class="btn_3">buy now</a>
               <a href="#" class="like_us"> <i class="ti-heart"></i> </a>
             </div>
           </div>
