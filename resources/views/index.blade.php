@@ -33,7 +33,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="/"> <img src="new_img/POLYBOX(1).png" style="width: 600px; margin-top:-15%; margin-left:-70px; height: 250px;" alt="logo"> </a>
+                        <a class="navbar-brand" href="/"> <img src="new_img/POLYBOX(1).png" style="width: 600px; margin-top:-10%; margin-left:-70px; height: 250px;" alt="logo"> </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -121,7 +121,7 @@
                     <div class="banner_slider owl-carousel">
                         <div class="single_banner_slider">
                             <div class="row">
-                                <div class="col-lg-5 col-md-8">
+                                <div class="col-lg-5 col-md-8" style="margin-top: 50px">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
@@ -130,7 +130,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="banner_img d-none d-lg-block">
+                                <div class="banner_img d-none d-lg-block" style="margin-left: 350px">
                                     <img src="new_img/ImageToStl.com_3.png" alt="">
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="banner_img d-none d-lg-block">
+                                <div class="banner_img d-none d-lg-block" style="margin-left: 350px">
                                     <img src="new_img/ImageToStl.com_3 (1).png" alt="">
                                 </div>
                             </div>
@@ -162,7 +162,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="banner_img d-none d-lg-block">
+                                <div class="banner_img d-none d-lg-block" style="margin-left: 350px">
                                     <img src="new_img/ImageToStl.com_3.png" alt="">
                                 </div>
                             </div>
@@ -191,44 +191,7 @@
         </div>
     </section>
     <!-- banner part start-->
-    <section class="how_it_works padding_top">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section_tittle text-center">
-                        <h2>How It Works</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-10">
-                    <div class="how_it_works_steps">
-                        <div class="single_step">
-                            <div class="step_number">1</div>
-                            <div class="step_content">
-                                <h4>Browse & Choose Your ProviBOX</h4>
-                                <p>Pick from our selection of sizes and colors to find the perfect fit.</p>
-                            </div>
-                        </div>
-                        <div class="single_step">
-                            <div class="step_number">2</div>
-                            <div class="step_content">
-                                <h4>Order via WhatsApp</h4>
-                                <p>Click the WhatsApp link to pre-order or secure yours. We’ll confirm all details, arrange payment, and keep you updated on delivery.</p>
-                            </div>
-                        </div>
-                        <div class="single_step">
-                            <div class="step_number">3</div>
-                            <div class="step_content">
-                                <h4>Receive & Enjoy!</h4>
-                                <p>With first stock arriving November 1st, 2024, you’ll be among the first to experience the convenience and durability of ProviBOX.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     
     <!-- feature_part start-->
     <section class="feature_part padding_top">
@@ -290,7 +253,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="product_list_slider owl-carousel">
+                    {{-- class="product_list_slider owl-carousel" --}}
+                    <div >
                         <div class="single_product_list_slider">
                             <div class="row align-items-center justify-content-between">
                                 <div class="col-lg-3 col-sm-6">
@@ -465,7 +429,44 @@
         </div>
     </section>
     <!-- product_list part start-->
-
+    <section class="how_it_works padding_top">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section_tittle text-center">
+                        <h2>How It Works</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="how_it_works_steps">
+                        <div class="single_step">
+                            <div class="step_number">1</div>
+                            <div class="step_content">
+                                <h4>Browse & Choose Your ProviBOX</h4>
+                                <p>Pick from our selection of sizes and colors to find the perfect fit.</p>
+                            </div>
+                        </div>
+                        <div class="single_step">
+                            <div class="step_number">2</div>
+                            <div class="step_content">
+                                <h4>Order via WhatsApp</h4>
+                                <p>Click the WhatsApp link to pre-order or secure yours. We’ll confirm all details, arrange payment, and keep you updated on delivery.</p>
+                            </div>
+                        </div>
+                        <div class="single_step">
+                            <div class="step_number">3</div>
+                            <div class="step_content">
+                                <h4>Receive & Enjoy!</h4>
+                                <p>With first stock arriving November 1st, 2024, you’ll be among the first to experience the convenience and durability of ProviBOX.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- awesome_shop start-->
     <section class="our_offer section_padding">
         <div class="container">
