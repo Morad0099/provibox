@@ -136,7 +136,7 @@
                             </div>
                         </div><div class="single_banner_slider">
                             <div class="row">
-                                <div class="col-lg-5 col-md-8">
+                                <div class="col-lg-5 col-md-8" style="margin-top: 50px">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
@@ -152,7 +152,7 @@
                             </div>
                         </div><div class="single_banner_slider">
                             <div class="row">
-                                <div class="col-lg-5 col-md-8">
+                                <div class="col-lg-5 col-md-8" style="margin-top: 50px">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
