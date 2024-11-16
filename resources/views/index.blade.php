@@ -253,11 +253,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    {{-- class="product_list_slider owl-carousel" --}}
-                    <div >
+                    <div>
                         <div class="single_product_list_slider">
-                            <div class="row align-items-center justify-content-between">
-                                <div class="col-lg-3 col-sm-6">
+                            <div class="row">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="single_product_item">
                                         <img src="new_img/ImageToStl.com_3 (1).png" alt="">
                                         <div class="single_product_text">
@@ -267,7 +266,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="single_product_item">
                                         <img src="new_img/ImageToStl.com_3.png" alt="">
                                         <div class="single_product_text">
@@ -277,27 +276,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/pro_99@3x.jpg" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/proVibox-00@3x.jpg" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="single_product_item">
                                         <img src="new_img/pro_ryr@3x.jpg" alt="">
                                         <div class="single_product_text">
@@ -307,7 +286,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="single_product_item">
                                         <img src="new_img/ImageToStl.com_4.png" alt="">
                                         <div class="single_product_text">
@@ -317,7 +296,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="single_product_item">
                                         <img src="new_img/ImageToStl.com_4 (6).png" alt="">
                                         <div class="single_product_text">
@@ -327,7 +306,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-sm-6">
+                                <div class="col-lg-4 col-sm-6">
                                     <div class="single_product_item">
                                         <img src="new_img/ImageToStl.com_4 (2).png" alt="">
                                         <div class="single_product_text">
@@ -339,92 +318,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="single_product_list_slider">
-                            <div class="row align-items-center justify-content-between">
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/ImageToStl.com_3 (1).png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/pro_ryr@3x.jpg" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/ImageToStl.com_3 (1).png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/ImageToStl.com_4 (3).png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/proVibox-00@3x.jpg" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/ImageToStl.com_3 (1).png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/ImageToStl.com_4 (1).png" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="single_product_item">
-                                        <img src="new_img/pro_99@3x.jpg" alt="">
-                                        <div class="single_product_text">
-                                            <h4>ProviBox</h4>
-                                            <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
+                
             </div>
         </div>
     </section>
