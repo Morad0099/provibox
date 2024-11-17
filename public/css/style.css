@@ -3149,7 +3149,16 @@ ul {
   margin-bottom: 20px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  display: block;
 }
+
+@media (max-width: 768px) {
+  .single_product_list_slider .row .single_product_item:nth-child(n+4) {
+      display: none !important; /* Use !important to override conflicting styles */
+  }
+}
+
+
 
 @media (max-width: 991px) {
   /* line 58, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_product_list.scss */

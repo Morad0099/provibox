@@ -33,7 +33,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="/"> <img src="new_img/POLYBOX(1).png" style="width: 600px; margin-top:-10%; margin-left:-70px; height: 250px;" alt="logo"> </a>
+                        <a class="navbar-brand" href="/"> <img src="new_img/POLYBOX(1).png"
+                                style="width: 600px; margin-top:-10%; margin-left:-70px; height: 250px;" alt="logo">
+                        </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -72,7 +74,7 @@
                                         <a class="dropdown-item" href="single-blog.html">Single blog</a>
                                     </div>
                                 </li> --}}
-                                
+
                                 <li class="nav-item">
                                     <a class="nav-link" href="/contact">Contact</a>
                                 </li>
@@ -125,7 +127,11 @@
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
-                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
+                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable,
+                                                high-quality storage <br> solutions designed for real-life needs. With
+                                                ProviBOX, you get a chopbox <br> that’s built to last, combining <br>
+                                                convenience and style <br> for students, households, and <br> in need of
+                                                reliable storage.</p>
                                             <a href="https://wa.me/233508984384" class="btn_2">buy now</a>
                                         </div>
                                     </div>
@@ -134,13 +140,18 @@
                                     <img src="new_img/ImageToStl.com_3.png" alt="">
                                 </div>
                             </div>
-                        </div><div class="single_banner_slider">
+                        </div>
+                        <div class="single_banner_slider">
                             <div class="row">
                                 <div class="col-lg-5 col-md-8" style="margin-top: 50px">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
-                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
+                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable,
+                                                high-quality storage <br> solutions designed for real-life needs. With
+                                                ProviBOX, you get a chopbox <br> that’s built to last, combining <br>
+                                                convenience and style <br> for students, households, and <br> in need of
+                                                reliable storage.</p>
 
                                             <a href="https://wa.me/233508984384" class="btn_2">buy now</a>
                                         </div>
@@ -150,13 +161,18 @@
                                     <img src="new_img/ImageToStl.com_3 (1).png" alt="">
                                 </div>
                             </div>
-                        </div><div class="single_banner_slider">
+                        </div>
+                        <div class="single_banner_slider">
                             <div class="row">
                                 <div class="col-lg-5 col-md-8" style="margin-top: 50px">
                                     <div class="banner_text">
                                         <div class="banner_text_iner">
                                             <h1>The Ultimate Plastic Chopbox!</h1>
-                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable, high-quality storage <br> solutions designed for real-life needs. With ProviBOX, you get a chopbox <br> that’s built to last, combining <br> convenience and style <br> for students, households, and <br> in need of reliable storage.</p>
+                                            <p>Welcome to ProviBOX! We’re making it easier than ever to get durable,
+                                                high-quality storage <br> solutions designed for real-life needs. With
+                                                ProviBOX, you get a chopbox <br> that’s built to last, combining <br>
+                                                convenience and style <br> for students, households, and <br> in need of
+                                                reliable storage.</p>
 
                                             <a href="https://wa.me/233508984384" class="btn_2">buy now</a>
                                         </div>
@@ -191,8 +207,8 @@
         </div>
     </section>
     <!-- banner part start-->
-    
-    
+
+
     <!-- feature_part start-->
     <section class="feature_part padding_top">
         <div class="container">
@@ -208,7 +224,8 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         <h3>Latest Box</h3>
-                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i
+                                class="fas fa-play"></i></a>
                         <img src="new_img/pro_ryr@3x.jpg" style="height: 90%; margin-bottom: 20px;" alt="">
                     </div>
                 </div>
@@ -216,7 +233,8 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         {{-- <h3>Latest Box</h3> --}}
-                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i
+                                class="fas fa-play"></i></a>
                         <img src="new_img/pro_99@3x.jpg" style="height: 75%; margin-bottom: 20px;" alt="">
                     </div>
                 </div>
@@ -224,7 +242,8 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         <h3>Latest Box</h3>
-                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i
+                                class="fas fa-play"></i></a>
                         <img src="new_img/ImageToStl.com_3.png" style="height: 80%" alt="">
                     </div>
                 </div>
@@ -232,7 +251,8 @@
                     <div class="single_feature_post_text">
                         <p>Premium Quality</p>
                         <h3>Latest Box</h3>
-                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i class="fas fa-play"></i></a>
+                        <a href="https://wa.me/233508984384" class="feature_btn">BUY NOW <i
+                                class="fas fa-play"></i></a>
                         <img src="new_img/ImageToStl.com_2 (4).png" style="height: 70%" alt="">
                     </div>
                 </div>
@@ -262,7 +282,8 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i
+                                                    class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -272,7 +293,8 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i
+                                                    class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -282,7 +304,8 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i
+                                                    class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -292,7 +315,8 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i
+                                                    class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -302,7 +326,8 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i
+                                                    class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -312,7 +337,8 @@
                                         <div class="single_product_text">
                                             <h4>ProviBox</h4>
                                             <h3>GHS10.00</h3>
-                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i class="ti-heart"></i></a>
+                                            <a href="https://wa.me/233508984384" class="add_cart">+ buy now<i
+                                                    class="ti-heart"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -320,7 +346,7 @@
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </section>
@@ -348,14 +374,16 @@
                             <div class="step_number">2</div>
                             <div class="step_content">
                                 <h4>Order via WhatsApp</h4>
-                                <p>Click the WhatsApp link to pre-order or secure yours. We’ll confirm all details, arrange payment, and keep you updated on delivery.</p>
+                                <p>Click the WhatsApp link to pre-order or secure yours. We’ll confirm all details,
+                                    arrange payment, and keep you updated on delivery.</p>
                             </div>
                         </div>
                         <div class="single_step">
                             <div class="step_number">3</div>
                             <div class="step_content">
                                 <h4>Receive & Enjoy!</h4>
-                                <p>With first stock arriving November 1st, 2024, you’ll be among the first to experience the convenience and durability of ProviBOX.</p>
+                                <p>With first stock arriving November 1st, 2024, you’ll be among the first to experience
+                                    the convenience and durability of ProviBOX.</p>
                             </div>
                         </div>
                     </div>
@@ -593,17 +621,27 @@
                     <div class="col-lg-8">
                         <div class="copyright_text">
                             <P><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Provibox</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></P>
+                                Copyright &copy;
+                                <script>
+                                    document.write(new Date().getFullYear());
+                                </script> All rights reserved | This website is made with <i
+                                    class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com"
+                                    target="_blank">Provibox</a>
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            </P>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="footer_icon social_icon">
                             <ul class="list-unstyled">
-                                <li><a href="#" class="single_social_icon"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#" class="single_social_icon"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#" class="single_social_icon"><i class="fas fa-globe"></i></a></li>
-                                <li><a href="#" class="single_social_icon"><i class="fab fa-behance"></i></a></li>
+                                <li><a href="#" class="single_social_icon"><i
+                                            class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#" class="single_social_icon"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li><a href="#" class="single_social_icon"><i class="fas fa-globe"></i></a>
+                                </li>
+                                <li><a href="#" class="single_social_icon"><i class="fab fa-behance"></i></a>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -612,7 +650,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </div>
     </footer>
     <!--::footer_part end::-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- jquery plugins here-->
     <script src="js/jquery-1.12.1.min.js"></script>
     <!-- popper js -->
@@ -639,6 +679,25 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/mail-script.js"></script>
     <!-- custom js -->
     <script src="js/custom.js"></script>
+    <script>
+        if (window.innerWidth <= 768) {
+            const items = document.querySelectorAll('.single_product_item');
+            items.forEach((item, index) => {
+                if (index >= 3) {
+                    item.style.display = 'none';
+                }
+            });
+        }
+
+        if (window.innerWidth <= 768) {
+            const items = document.querySelectorAll('.single_feature_post_text');
+            items.forEach((item, index) => {
+                if (index >= 2) {
+                    item.style.display = 'none';
+                }
+            });
+        }
+    </script>
 </body>
 
 </html>
