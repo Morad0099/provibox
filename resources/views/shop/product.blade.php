@@ -164,7 +164,7 @@
           <div class="s_product_text">
             {{-- <h5>previous <span>|</span> next</h5> --}}
             <h3>Plastic Provibox</h3>
-            <h2>GHS 100.00</h2>
+            <h2>GHS 450.00</h2>
             <ul class="list">
               <li>
                 <a class="active" href="#">

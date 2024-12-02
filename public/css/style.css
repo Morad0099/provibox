@@ -3149,13 +3149,6 @@ ul {
   margin-bottom: 20px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  display: block;
-}
-
-@media (max-width: 768px) {
-  .single_product_list_slider .row .single_product_item:nth-child(n+4) {
-      display: none !important; /* Use !important to override conflicting styles */
-  }
 }
 
 
